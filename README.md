@@ -1,22 +1,26 @@
 <div align="center">
 
-## ⚡ TECH STACK
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,40:111111,100:FF0000&text=Chaman%20Vashishth&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20AI%20Systems%20•%20IoT%20Automation&descAlignY=60"/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mongodb,react,git,linux,c,cpp,tensorflow,pytorch,opencv,streamlit" />
+<br/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ESP32-050816?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-050816?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=850&lines=Backend+Developer;AI+Systems+Developer;IoT+Automation+Builder;ESP32+%7C+Python+%7C+Node.js+%7C+MongoDB;Building+Intelligent+Real-World+Systems" />
 
 </div>
+
+---
+
+<div align="center">
+
+## 🏎 ABOUT ME
+
+```txt
+Backend developer focused on AI systems, intelligent automation,
+and scalable backend applications.
+
+Building real-world systems using Python, Node.js, MongoDB,
+ESP32, and embedded technologies while combining software
+engineering with automation and AI.
 
 
 ## 🌐 Socials:
