@@ -22,6 +22,26 @@ Building real-world systems using Python, Node.js, MongoDB,
 ESP32, and embedded technologies while combining software
 engineering with automation and AI.
 
+<div align="center">
+
+## ⚡ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mongodb,react,git,linux,c,cpp,tensorflow,pytorch,opencv,streamlit" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ESP32-050816?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-050816?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vashishthchaman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamanvashishth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chaman-vashishth-b227a6387) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chmnvashishth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamanvashishth133@gmail.com) 
