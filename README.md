@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Chaman%20Vashishth&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT%20Developer&descAlignY=58&descSize=22"/>
+
 🌱 Currently exploring **Machine Learning, Deep Learning, Backend Systems & IoT**
 
 💻 Contributing to **Open Source Projects** through **GSSoC 2026**
@@ -15,13 +17,8 @@
 🎯 Goal: To build impactful AI systems and contribute globally through technology
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Chaman%20Vashishth&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT%20Developer&descAlignY=58&descSize=22"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Chaman+Vashishth;AI%2FML+System+Architect;IoT+System+Builder;Backend+Developer;Open+Source+Contributor;Building+Intelligent+Systems" />
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/resources/mario.gif" width="850"/>
 
 </div>
 
