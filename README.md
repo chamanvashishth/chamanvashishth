@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Chaman%20Vashishth&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT%20&descAlignY=58&descSize=22"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=50&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Chaman+Vashishth" alt="Name" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=25&color=FFFFFF&center=true&vCenter=true&width=800&height=40&lines=AI+%7C+ML+%7C+IoT" alt="Skills" />
+</h1>
+
+
+
+
 
 🌱 Currently exploring **Machine Learning, Deep Learning, Backend Systems & IoT**
 
