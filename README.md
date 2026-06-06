@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 🌱 Currently exploring **Machine Learning, Deep Learning, Backend Systems & IoT**
 
 💻 Contributing to **Open Source Projects** through **GSSoC 2026**
@@ -22,6 +18,12 @@
 📚 Learning every day and turning ideas into real-world systems
 
 🎯 Goal: To build impactful AI systems and contribute globally through technology
+
+
+
+
+
+
 
 
 
