@@ -11,7 +11,7 @@
 
 🏆 **GSSoC 2026 Contributor** • **NSoC 2026 Contributor** • **Open Source Track** • **AI Agents Track**
 
-🚀 Participant in the **Outskill × OpenAI Hackathon 2026**
+🚀 Participanted in the **Outskill × OpenAI Hackathon 2026**
 
 ⚡ Participated in the **DEI X VLABS Hackathon 2026**
 
