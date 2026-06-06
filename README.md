@@ -3,21 +3,25 @@
 
 
 
+## 👨‍💻 About Me
+
 🌱 Currently exploring **Machine Learning, Deep Learning, Backend Systems & IoT**
 
-💻 Contributing to **Open Source Projects** through **GSSoC 2026**
+💻 Contributing to **Open Source Projects** through **GSSoC 2026** & **NSoC 2026**
 
-🏆 GSSoC 2026 Contributor • Open Source Track • AI Agents Track
+🏆 **GSSoC 2026 Contributor** • **NSoC 2026 Contributor** • **Open Source Track** • **AI Agents Track**
 
-⚡ Participated in **DEI X VLABS Hackathon 2026**
+🚀 Participant in the **Outskill × OpenAI Hackathon 2026**
 
-🧠 Curious about **AI Research, System Design, Automation & Futuristic Tech**
+⚡ Participated in the **DEI X VLABS Hackathon 2026**
+
+🧠 Curious about **AI Research, System Design, Automation, AI Agents & Futuristic Tech**
 
 🔭 Building projects that combine **AI + IoT + Intelligent Systems**
 
 📚 Learning every day and turning ideas into real-world systems
 
-🎯 Goal: To build impactful AI systems and contribute globally through technology
+🎯 Goal: **Build impactful AI systems, contribute globally through open source, and create technology that solves real-world problems**
 
 
 
