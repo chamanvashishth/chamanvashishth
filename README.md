@@ -21,7 +21,7 @@
 
 📚 Learning every day and turning ideas into real-world systems
 
-🎯 Goal: **Build impactful AI systems, contribute globally through open source, and create technology that solves real-world problems**
+🎯 Goal: **Build impactful AI/ML systems, contribute globally through open source, and create technology that solves real-world problems**
 
 
 
