@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Chaman%20Vashishth&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20IoT%20&descAlignY=58&descSize=22"/>
 
-im passionate
+
 
 ## 👨‍💻 About Me
 
