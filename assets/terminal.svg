@@ -1,6 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
 <title id="title">Chaman Vashishth Windows PowerShell Profile</title>
 <desc id="desc">A Windows PowerShell styled GitHub profile showing identity, links, shipped projects, open-source contributions, and git history.</desc>
+<style>
+@keyframes blink {
+  0%, 45% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+.cursor { animation: blink 1s steps(1, end) infinite; }
+</style>
 <rect width="1200" height="690" rx="10" fill="#0d1117"/>
 <rect x="1" y="1" width="1198" height="688" rx="10" fill="none" stroke="#30363d"/>
 <path d="M10 10h1180v48H10z" fill="#161b22"/>
@@ -26,5 +33,6 @@
 <text x="55" y="460" fill="#c9d1d9">Unplug</text><text x="290" y="460" fill="#7ee787">open-source contributor · LLM robustness and AI safety</text>
 <text x="38" y="510" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="510" fill="#c9d1d9">git log --oneline upstream</text>
 <text x="38" y="540" fill="#7ee787">merged →</text><text x="150" y="540" fill="#58a6ff">open-source</text><text x="285" y="540" fill="#58a6ff">ML systems</text><text x="420" y="540" fill="#58a6ff">web &amp; APIs</text>
-<text x="38" y="610" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="610" fill="#c9d1d9">_</text>
+<text x="38" y="610" fill="#79c0ff">PS C:\Users\Chaman&gt;</text>
+<rect class="cursor" x="210" y="596" width="9" height="19" rx="1" fill="#c9d1d9"/>
 </g></svg>
