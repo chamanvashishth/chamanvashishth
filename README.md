@@ -6,7 +6,7 @@
 
 [<kbd> portfolio </kbd>](https://chamanvashishth.github.io/)
 &nbsp;
-[<kbd> linkedin </kbd>](https://www.linkedin.com/in/chaman-vashishth-b227a638/)
+[<kbd> linkedin </kbd>](https://www.linkedin.com/in/chaman-vashishth-b227a6387/)
 &nbsp;
 [<kbd> github </kbd>](https://github.com/chamanvashishth)
 &nbsp;
