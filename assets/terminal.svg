@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
 <title id="title">Chaman Vashishth Windows PowerShell Profile</title>
-<desc id="desc">A Windows PowerShell styled GitHub profile showing identity, links, shipped projects, open-source contributions, and git history.</desc>
+<desc id="desc">A deep black Windows PowerShell styled GitHub profile showing identity, links, shipped projects, open-source contributions, and git history.</desc>
 <style>
 @keyframes blink {
   0%, 45% { opacity: 1; }
@@ -8,31 +8,33 @@
 }
 .cursor { animation: blink 1s steps(1, end) infinite; }
 </style>
-<rect width="1200" height="690" rx="10" fill="#0d1117"/>
-<rect x="1" y="1" width="1198" height="688" rx="10" fill="none" stroke="#30363d"/>
-<path d="M10 10h1180v48H10z" fill="#161b22"/>
-<line x1="10" y1="58" x2="1190" y2="58" stroke="#30363d"/>
+<!-- Deep black terminal body -->
+<rect width="1200" height="690" rx="10" fill="#000000"/>
+<rect x="1" y="1" width="1198" height="688" rx="10" fill="none" stroke="#242424"/>
+<!-- Windows title bar -->
+<path d="M10 10h1180v48H10z" fill="#070707"/>
+<line x1="10" y1="58" x2="1190" y2="58" stroke="#242424"/>
 <rect x="28" y="21" width="24" height="24" rx="3" fill="#0067b8"/>
-<text x="33" y="39" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" fill="#fff">&gt;_</text>
-<text x="600" y="40" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8b949e">Chaman Vashishth — Windows PowerShell</text>
-<text x="1088" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#c9d1d9">−</text>
-<rect x="1129" y="27" width="13" height="13" fill="none" stroke="#c9d1d9" stroke-width="1.5"/>
-<text x="1172" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c9d1d9">×</text>
+<text x="33" y="39" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" fill="#ffffff">&gt;_</text>
+<text x="600" y="40" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8a8a8a">Chaman Vashishth — Windows PowerShell</text>
+<text x="1088" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#d0d0d0">−</text>
+<rect x="1129" y="27" width="13" height="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="1172" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#d0d0d0">×</text>
 <g font-family="Consolas, 'Courier New', monospace" font-size="16">
-<text x="38" y="95" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="95" fill="#c9d1d9">whoami</text>
-<text x="38" y="124" font-size="18" font-weight="700" fill="#f0f6fc">Chaman Vashishth</text>
-<text x="38" y="153" fill="#8b949e">Machine Learning-focused developer building practical ML systems.</text>
-<text x="38" y="178" fill="#8b949e">Recommendation systems · Explainable AI · Open source</text>
-<text x="38" y="222" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="222" fill="#c9d1d9">type links.txt</text>
-<text x="38" y="250" fill="#58a6ff">portfolio | linkedin | github | x | discord | email</text>
-<text x="38" y="298" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="298" fill="#c9d1d9">dir shipped\</text>
-<text x="55" y="328" fill="#c9d1d9">neural-net-scratch</text><text x="290" y="328" fill="#7ee787">neural network from scratch using NumPy</text>
-<text x="55" y="354" fill="#c9d1d9">movie-recommender-als</text><text x="290" y="354" fill="#7ee787">collaborative filtering, ALS and SVD</text>
-<text x="55" y="380" fill="#c9d1d9">PredictX</text><text x="290" y="380" fill="#7ee787">predictive maintenance with ML and SHAP</text>
-<text x="38" y="430" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="430" fill="#c9d1d9">dir contributing\</text>
-<text x="55" y="460" fill="#c9d1d9">Unplug</text><text x="290" y="460" fill="#7ee787">open-source contributor · LLM robustness and AI safety</text>
-<text x="38" y="510" fill="#79c0ff">PS C:\Users\Chaman&gt;</text><text x="210" y="510" fill="#c9d1d9">git log --oneline upstream</text>
-<text x="38" y="540" fill="#7ee787">merged →</text><text x="150" y="540" fill="#58a6ff">open-source</text><text x="285" y="540" fill="#58a6ff">ML systems</text><text x="420" y="540" fill="#58a6ff">web &amp; APIs</text>
-<text x="38" y="610" fill="#79c0ff">PS C:\Users\Chaman&gt;</text>
-<rect class="cursor" x="210" y="596" width="9" height="19" rx="1" fill="#c9d1d9"/>
+<text x="38" y="95" fill="#55b7ff">PS C:\Users\Chaman&gt;</text><text x="210" y="95" fill="#e6e6e6">whoami</text>
+<text x="38" y="124" font-size="18" font-weight="700" fill="#ffffff">Chaman Vashishth</text>
+<text x="38" y="153" fill="#9a9a9a">Machine Learning-focused developer building practical ML systems.</text>
+<text x="38" y="178" fill="#9a9a9a">Recommendation systems · Explainable AI · Open source</text>
+<text x="38" y="222" fill="#55b7ff">PS C:\Users\Chaman&gt;</text><text x="210" y="222" fill="#e6e6e6">type links.txt</text>
+<text x="38" y="250" fill="#5baeff">portfolio | linkedin | github | x | discord | email</text>
+<text x="38" y="298" fill="#55b7ff">PS C:\Users\Chaman&gt;</text><text x="210" y="298" fill="#e6e6e6">dir shipped\</text>
+<text x="55" y="328" fill="#d8d8d8">neural-net-scratch</text><text x="290" y="328" fill="#77d98b">neural network from scratch using NumPy</text>
+<text x="55" y="354" fill="#d8d8d8">movie-recommender-als</text><text x="290" y="354" fill="#77d98b">collaborative filtering, ALS and SVD</text>
+<text x="55" y="380" fill="#d8d8d8">PredictX</text><text x="290" y="380" fill="#77d98b">predictive maintenance with ML and SHAP</text>
+<text x="38" y="430" fill="#55b7ff">PS C:\Users\Chaman&gt;</text><text x="210" y="430" fill="#e6e6e6">dir contributing\</text>
+<text x="55" y="460" fill="#d8d8d8">Unplug</text><text x="290" y="460" fill="#77d98b">open-source contributor · LLM robustness and AI safety</text>
+<text x="38" y="510" fill="#55b7ff">PS C:\Users\Chaman&gt;</text><text x="210" y="510" fill="#e6e6e6">git log --oneline upstream</text>
+<text x="38" y="540" fill="#77d98b">merged →</text><text x="150" y="540" fill="#5baeff">open-source</text><text x="285" y="540" fill="#5baeff">ML systems</text><text x="420" y="540" fill="#5baeff">web &amp; APIs</text>
+<text x="38" y="610" fill="#55b7ff">PS C:\Users\Chaman&gt;</text>
+<rect class="cursor" x="210" y="596" width="9" height="19" rx="1" fill="#ffffff"/>
 </g></svg>
