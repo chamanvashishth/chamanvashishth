@@ -12,8 +12,6 @@
 &nbsp;
 [<kbd> x </kbd>](https://x.com/chmnvashishth)
 &nbsp;
-[<kbd> discord </kbd>](https://discord.gg/vashishthchaman)
-&nbsp;
 [<kbd> email </kbd>](mailto:chamanvashishth133@gmail.com)
 
 </div>
