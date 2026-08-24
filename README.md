@@ -10,6 +10,8 @@
 &nbsp;
 [<kbd> github </kbd>](https://github.com/chamanvashishth)
 &nbsp;
+[<kbd> leetcode </kbd>](https://leetcode.com/u/iIAdKaqDJc/)
+&nbsp;
 [<kbd> x </kbd>](https://x.com/chmnvashishth)
 &nbsp;
 [<kbd> email </kbd>](mailto:chamanvashishth133@gmail.com)
