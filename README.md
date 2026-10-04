@@ -14,9 +14,9 @@ I build AI systems I can **inspect, evaluate, and explain** — from the mathema
 
 [Portfolio](https://chamanvashishth.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) ·
-[LeetCode](https://leetcode.com/u/iIAdKaqDJc/) ·
+[LeetCode](https://leetcode.com/u/vashishthchaman) ·
 [X](https://x.com/chmnvashishth) ·
-[Email](mailto:chamanvashishth133@gmail.com)
+[Email](mailto:hellowvashishth)
 
 </div>
 
