@@ -1,139 +1,111 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Chaman Vashishth — AI and Machine Learning Engineering" />
-
-<br/>
-
 # Chaman Vashishth
 
-**AI / ML Engineering · Neural Networks from First Principles · Applied Machine Learning**
+**AI / ML Engineering · Neural Networks · Quantum Computing**
 
-I build AI systems I can **inspect, evaluate, and explain** — from the mathematics inside a model to the software around it.
-
-<br/>
+Building and studying machine-learning systems from the fundamentals up, with a focus on implementation, evaluation, and understandable engineering.
 
 [Portfolio](https://chamanvashishth.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) ·
 [LeetCode](https://leetcode.com/u/vashishthchaman) ·
-[X](https://x.com/chmnvashishth) ·
-[Email](mailto:hellowvashishth)
+[GitHub Repositories](https://github.com/chamanvashishth?tab=repositories)
 
 </div>
 
 ---
 
-## A little about my work
+## About
 
-I'm an undergraduate studying **Internet of Things**, focused on machine learning, neural networks, and software systems that make intelligent behavior useful.
+I'm an undergraduate in **Internet of Things**, developing practical experience across machine learning, neural networks, software systems, and quantum-computing education.
 
-My approach is deliberately hands-on: implement core ideas where that helps build understanding, establish baselines before making claims, evaluate with relevant metrics, and document what is working versus what is still experimental. I'm especially interested in **local-first AI** and the engineering foundations behind models—not just the interface around them.
+I like understanding what happens beneath an abstraction: how gradients update parameters, how data representation shapes a model, how to evaluate a result, and how mathematical ideas become usable software. I aim to keep projects inspectable, document limitations honestly, and improve them through testing and iteration.
 
-- **Build:** neural-network internals, applied ML workflows, recommendation systems, and AI tooling.
-- **Study:** optimization, representation learning, model evaluation, and the mathematics behind learning systems.
-- **Contribute:** open-source software, readable documentation, and reproducible experiments.
+**Current interests:** deep learning foundations, local-first AI, applied ML, quantum circuits and simulation, and open-source software.
 
-## Selected projects
-
-These projects represent the questions I keep returning to: how models learn, how to evaluate them, and how to turn them into usable systems.
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chamanvashishth/ARIA">ARIA — Autonomous Research & Intelligence Architecture</a></h3>
-      <sub>Local-first AI · Neural systems</sub>
-      <p>An independently built AI stack with a tensor engine, reverse-mode automatic differentiation, trainable layers, a tokenizer, and an experimental small Transformer language model. Designed to keep the model path inspectable rather than hide it behind a hosted API.</p>
-      <p><strong>Working through:</strong> model internals, training/inference foundations, local runtime design.</p>
+      <h3><a href="https://github.com/chamanvashishth/AIQCP">AIQCP — Quantum Laboratory</a></h3>
+      <p><strong>Quantum computing · Interactive simulation · Learning systems</strong></p>
+      <p>A quantum-computing learning and experimentation platform connecting concepts, circuit construction, simulation, state visualization, practice, and research workflows. Its educational simulator explores statevectors, gates, measurement, finite-shot sampling, noise models, and quantum-information concepts.</p>
+      <p><em>Project access: private repository.</em></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chamanvashishth/ARIA">ARIA — Autonomous Research & Intelligence Architecture</a></h3>
+      <p><strong>Local-first AI · Neural systems</strong></p>
+      <p>An experimental AI stack exploring tensor operations, reverse-mode automatic differentiation, trainable layers, tokenization, and a small Transformer language model, with an emphasis on understanding the components behind model execution.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/chamanvashishth/neural-net-scratch">Neural Network from Scratch</a></h3>
-      <sub>Deep learning · Numerical computing</sub>
-      <p>A NumPy-only MNIST classifier with dense layers, ReLU, batch normalization, inverted dropout, stable softmax-cross-entropy, manual backpropagation, and Adam optimization.</p>
-      <p><strong>Working through:</strong> gradients, numerical stability, regularization, optimization.</p>
+      <p><strong>Deep learning · Numerical computing</strong></p>
+      <p>A NumPy-based MNIST classifier implementing dense layers, ReLU, batch normalization, dropout, stable softmax cross-entropy, manual backpropagation, and Adam optimization.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/chamanvashishth/PredictX">PredictX — Predictive Maintenance</a></h3>
-      <sub>Applied ML · Industrial IoT</sub>
-      <p>An end-to-end predictive-maintenance workflow using sensor data, data-quality checks, model comparison, classification metrics, explainability, and a Streamlit dashboard for equipment-failure risk.</p>
-      <p><strong>Working through:</strong> reproducible pipelines, model interpretation, operational context.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chamanvashishth/movie-recommender-als">Movie Recommendation Engine</a></h3>
-      <sub>Recommender systems · Matrix factorization</sub>
-      <p>A collaborative-filtering system built around user/item biases, SVD initialization, and Alternating Least Squares, with a Streamlit interface and a cold-start fallback.</p>
-      <p><strong>Working through:</strong> sparse data, latent factors, optimization, recommendation evaluation.</p>
+      <p><strong>Applied ML · Industrial IoT</strong></p>
+      <p>An end-to-end predictive-maintenance workflow built around sensor data, data validation, model comparison, classification metrics, explainability, and a Streamlit dashboard.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chamanvashishth/AI-Resume-Classification-System">Resume Classification System</a></h3>
-      <sub>NLP · Supervised learning</sub>
-      <p>A baseline text-classification application using TF-IDF features and Logistic Regression to classify resume text into broad job categories.</p>
-      <p><strong>Working through:</strong> text representation, baselines, classification workflows.</p>
+      <h3><a href="https://github.com/chamanvashishth/movie-recommender-als">Movie Recommendation Engine</a></h3>
+      <p><strong>Recommender systems · Matrix factorization</strong></p>
+      <p>A collaborative-filtering implementation using user and item biases, SVD initialization, and Alternating Least Squares, with an interactive interface and a cold-start fallback.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chamanvashishth/GSoC-Org-Finder-">GSoC Organization Finder</a></h3>
-      <sub>Developer tooling · Open source</sub>
-      <p>A discovery tool for exploring open-source program organizations by domain and technology, with repository activity and contribution entry points to help narrow down where to participate.</p>
-      <p><strong>Working through:</strong> API integration, developer experience, open-source discovery.</p>
+      <h3><a href="https://github.com/chamanvashishth/AI-Resume-Classification-System">Resume Classification System</a></h3>
+      <p><strong>NLP · Supervised learning</strong></p>
+      <p>A text-classification baseline using TF-IDF features and Logistic Regression to classify resume text into broad job categories.</p>
     </td>
   </tr>
 </table>
 
 [Explore all repositories →](https://github.com/chamanvashishth?tab=repositories)
 
-## Experience
-
-**AI & Machine Learning Intern — InAmigos Foundation**  
-*August–September 2026*
-
-Worked in the AI/ML domain, strengthening my understanding of applied machine-learning workflows and collaborative technical work.
-
 ## Technical toolkit
 
 | Area | Tools and concepts |
 |---|---|
 | **Languages** | Python, C++, JavaScript, SQL |
-| **Data & scientific computing** | NumPy, Pandas, SciPy |
-| **Machine learning** | scikit-learn, TensorFlow, feature engineering, classification, model evaluation |
-| **Deep learning foundations** | Backpropagation, gradient-based optimization, neural networks, numerical stability |
-| **Applied ML** | Predictive maintenance, recommender systems, NLP, explainability |
-| **Local AI** | Ollama, local model experimentation |
-| **Applications** | Streamlit, Node.js, Express.js, HTML, CSS |
-| **Workflow** | Git, GitHub, Linux, documentation, reproducible experiments |
+| **Data & numerical computing** | NumPy, Pandas, SciPy |
+| **Machine learning** | scikit-learn, TensorFlow, classification, model evaluation, feature engineering |
+| **Deep learning foundations** | Backpropagation, gradient-based optimization, regularization, neural-network components |
+| **Applied ML** | Recommender systems, NLP, predictive maintenance, explainability |
+| **Software & interfaces** | Streamlit, React, Node.js, HTML, CSS |
+| **Quantum computing** | Quantum gates and circuits, statevectors, measurement, simulation, quantum information fundamentals |
+| **Tools** | Git, GitHub, Linux, VS Code |
 
-## How I engineer
+## Experience
 
-- **Understand the mechanism.** Implement core algorithms when it makes the underlying idea clearer.
-- **Use evidence, not adjectives.** Prefer baselines, evaluation metrics, tests, and limitations over unsupported claims.
-- **Treat experiments as engineering.** Keep data preparation, training, evaluation, and the application connected.
-- **Make work inspectable.** Write documentation that helps another person understand the design and reproduce the result.
-- **Be precise about maturity.** Separate implemented behavior from experimental capabilities and future plans.
+**AI & Machine Learning Intern — InAmigos Foundation**  
+Worked on internship tasks in the AI/ML domain.
 
-## Current focus
+## How I work
 
-- Developing **ARIA**, with emphasis on transparent neural-network and local-inference foundations.
-- Deepening ML fundamentals through implementations and measured experiments.
-- Preparing for sustained open-source contributions, including exploring potential **GSoC 2027** projects.
-- Improving software quality through tests, clearer project documentation, and reproducible workflows.
+- **Understand the mechanism:** implement core ideas when doing so improves understanding.
+- **Evaluate, don't assume:** use suitable baselines and metrics before making performance claims.
+- **Build end to end:** connect data, models, interfaces, and documentation into usable projects.
+- **Be precise about progress:** distinguish implemented features from experiments and future work.
+- **Learn in public:** improve code quality, write useful documentation, and contribute to open-source projects.
 
-## Education
+## Currently exploring
 
-**Bachelor of Vocation (B.Voc.) — Internet of Things**  
-*Expected graduation: 2028*
+- Neural-network internals and small language models
+- Reliable, interpretable, and reproducible machine learning
+- Quantum circuits, simulation, and the mathematics behind quantum information
+- Open-source contribution and research-oriented engineering
 
-My IoT background informs my interest in the boundary between machine learning and real systems: sensor data, predictive maintenance, edge constraints, and practical deployment.
-
-## Let's connect
-
-I'm interested in collaborating on **applied machine learning, local-first AI, neural-network fundamentals, and open-source developer tools**.
+---
 
 <div align="center">
 
-[Portfolio](https://chamanvashishth.github.io/) ·
-[GitHub repositories](https://github.com/chamanvashishth?tab=repositories) ·
-[LinkedIn](https://www.linkedin.com/in/chamanvashishth/) ·
-[Email](mailto:chamanvashishth133@gmail.com)
+**Interested in thoughtful engineering, practical experiments, and the ideas connecting AI with quantum computing.**
+
+[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [Repositories](https://github.com/chamanvashishth?tab=repositories)
 
 </div>
