@@ -2,60 +2,51 @@
 
 # Chaman Vashishth
 
-**Machine Learning | Neural Networks | Quantum Computing**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=42B883&center=true&vCenter=true&width=620&lines=Learning+machine+learning+by+building;Understanding+neural+networks+from+the+inside;Exploring+quantum+computing+and+simulation" alt="A short introduction to my interests" />
 
-I enjoy building things, figuring out how they work, and learning by writing code rather than only reading about it.
-
-[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [LeetCode](https://leetcode.com/u/vashishthchaman) · [Repositories](https://github.com/chamanvashishth?tab=repositories)
+[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [LeetCode](https://leetcode.com/u/vashishthchaman) · [All repositories](https://github.com/chamanvashishth?tab=repositories)
 
 </div>
 
-## About me
+## A little about me
 
-I'm studying Internet of Things and spending a lot of my time learning machine learning, neural networks, and the maths behind them.
+I'm studying Internet of Things, and most of my spare time goes into machine learning, neural networks, and the maths behind them.
 
-I like projects that help me understand a concept properly. That might mean writing a neural network with NumPy, testing a recommendation algorithm, or building a small tool that solves a practical problem. I am still learning, and I try to be honest about what works, what needs improvement, and what I have not figured out yet.
+I learn best by building small things and figuring out where my understanding falls short. I enjoy implementing ideas rather than treating libraries as black boxes, whether that means writing a neural network with NumPy or testing how a recommendation algorithm behaves on real data.
 
-Outside of machine learning, I'm interested in quantum computing, especially circuits, simulation, and making the subject easier to explore through interactive tools.
+I'm also interested in quantum computing and in making its concepts easier to explore through interactive tools.
 
-## Projects I'm working on
+## What I'm building
 
-### AIQCP: Quantum Laboratory
+**[ARIA](https://github.com/chamanvashishth/ARIA)**  
+An experimental AI architecture project. I'm exploring the building blocks behind a model, including tensor operations, automatic differentiation, trainable layers, tokenization, and a small Transformer.
 
-I'm building a learning environment for quantum computing where people can study concepts, create circuits, run simulations, and inspect the results. The project brings lessons and experiments together so the connection between the maths and the output is easier to see.
+**[Neural Network from Scratch](https://github.com/chamanvashishth/neural-net-scratch)**  
+A NumPy based MNIST classifier with backpropagation, batch normalization, dropout, and Adam. This project helps me connect the equations with working code.
 
-This is a private repository for now.
+**[PredictX](https://github.com/chamanvashishth/PredictX)**  
+A predictive maintenance project using industrial sensor data, model comparisons, evaluation metrics, explainability, and a Streamlit dashboard.
 
-### [ARIA: Autonomous Research and Intelligence Architecture](https://github.com/chamanvashishth/ARIA)
+**[Movie Recommendation Engine](https://github.com/chamanvashishth/movie-recommender-als)**  
+A collaborative filtering recommender with user and item biases, SVD initialization, and Alternating Least Squares.
 
-An experimental project where I'm exploring the pieces behind an AI system, including tensor operations, automatic differentiation, trainable layers, tokenization, and a small Transformer model. The goal is to understand more of what happens inside a model instead of treating it as a black box.
+**[Resume Classification System](https://github.com/chamanvashishth/AI-Resume-Classification-System)**  
+An NLP project using TF IDF and Logistic Regression to classify resume text into job categories.
 
-### [Neural Network from Scratch](https://github.com/chamanvashishth/neural-net-scratch)
+**Quantum Laboratory (AIQCP)**  
+A quantum computing learning environment I'm developing for circuits, simulation, experiments, and guided practice. The repository is private while I continue working on it.
 
-A NumPy implementation of an MNIST classifier. It includes dense layers, ReLU, batch normalization, dropout, backpropagation, and Adam. Building it has been a useful way to connect the equations I study with actual code.
+## What I'm learning
 
-### [PredictX](https://github.com/chamanvashishth/PredictX)
+- Building and evaluating machine learning models
+- Neural network training and the details behind backpropagation
+- Quantum circuits and simulation
+- Contributing to open source and getting more comfortable working in unfamiliar codebases
 
-A predictive maintenance project based on industrial sensor data. It brings together data checks, model comparison, classification metrics, explainability, and a Streamlit dashboard.
+## Tools I work with
 
-### [Movie Recommendation Engine](https://github.com/chamanvashishth/movie-recommender-als)
-
-A movie recommender built with collaborative filtering, user and item biases, SVD initialization, and Alternating Least Squares.
-
-### [Resume Classification System](https://github.com/chamanvashishth/AI-Resume-Classification-System)
-
-A small NLP project using TF IDF and Logistic Regression to classify resume text into job categories.
-
-[See all my repositories](https://github.com/chamanvashishth?tab=repositories)
-
-## Tools I use
-
-**Languages:** Python, C++, JavaScript, SQL
-
-**Machine learning and data:** NumPy, Pandas, SciPy, scikit learn, TensorFlow
-
-**Things I'm learning:** neural network training, model evaluation, recommender systems, natural language processing, quantum circuits and simulation
-
+**Languages:** Python, C++, JavaScript, SQL  
+**ML and data:** NumPy, Pandas, SciPy, scikit learn, TensorFlow  
 **Development:** Git, GitHub, Linux, Streamlit, React, Node.js
 
 ## Experience
@@ -64,10 +55,17 @@ A small NLP project using TF IDF and Logistic Regression to classify resume text
 
 Worked on tasks in the AI and machine learning domain.
 
-## What I'm learning now
+## GitHub activity
 
-I'm working on understanding neural networks more deeply, improving my ML projects, contributing to open source, and learning the fundamentals of quantum computing. I want to get better at building things that are useful, understandable, and backed by careful testing.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chamanvashishth&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamanvashishth&layout=compact&hide_border=true&theme=transparent" alt="Most used public repository languages" />
+</div>
 
-I'm always happy to connect with people who enjoy machine learning, open source, maths, or quantum computing.
+<div align="center">
+
+I'm still learning, and this profile will change as the work does. If you're into machine learning, open source, or quantum computing, feel free to connect.
 
 [Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [GitHub](https://github.com/chamanvashishth)
+
+</div>
