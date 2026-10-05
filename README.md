@@ -77,7 +77,10 @@ Right now, my focus is **machine learning, neural networks, local AI, and quantu
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chamanvashishth/chamanvashishth/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph generated from GitHub activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chamanvashishth/chamanvashishth/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/chamanvashishth/chamanvashishth/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution graph generated from GitHub activity" />
+  </picture>
 </div>
 
 ## Experience
