@@ -2,9 +2,9 @@
 
 # Chaman Vashishth
 
-**Machine learning, neural networks, and quantum computing**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1200&color=4F8CC9&center=true&vCenter=true&width=620&height=35&lines=Building+and+learning+with+machine+learning;Neural+networks+from+scratch;Exploring+quantum+computing;Learning+through+open+source" alt="A subtle rotating headline about machine learning, neural networks, quantum computing, and open source" />
 
-[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [LeetCode](https://leetcode.com/u/vashishthchaman)
+[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [LeetCode](https://leetcode.com/u/vashishthchaman) · [Kaggle](https://www.kaggle.com/chamanvashishth)
 
 </div>
 
