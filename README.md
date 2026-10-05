@@ -14,4 +14,4 @@ Python, NumPy, TensorFlow, Pandas, scikit-learn, TypeScript, React, Git, and Lin
 
 ### Find me
 
-[GitHub](https://github.com/chamanvashishth) · [Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [Kaggle](https://www.kaggle.com/chamanvashishth) · [LeetCode](https://leetcode.com/u/vashishthchaman)
+[Portfolio](https://chamanvashishth.github.io/) · [LinkedIn](https://www.linkedin.com/in/chamanvashishth/) · [Kaggle](https://www.kaggle.com/chamanvashishth) · [LeetCode](https://leetcode.com/u/vashishthchaman)
