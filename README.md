@@ -4,7 +4,7 @@ MLE
 
 I'm currently focused on:
 
-- **[ARIA](https://github.com/chamanvashishth/ARIA)** — an experimental, local-first AI architecture. I'm exploring the building blocks behind neural networks, autodiff, tokenization, and language models.
+- **[ARIA](https://github.com/chamanvashishth/ARIA)** : an experimental, local-first AI architecture. I'm exploring the building blocks behind neural networks, autodiff, tokenization, and language models.
 
 ### Tools I use
 
